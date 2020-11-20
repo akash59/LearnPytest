@@ -12,3 +12,7 @@ tests/__pycache__/test_accum.cpython-39-pytest-6.1.2.pyc
 tests/__pycache__/test_math.cpython-39-pytest-6.1.2.pyc
 reports.xml
 results/*
+htmlcov/*
+.coverage
+assets/*
+tests/__pycache__/*
